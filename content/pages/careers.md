@@ -95,7 +95,7 @@ sections:
     type: TextSection
   - colors: colors-a
     elementId: ''
-    title: Convinced? check out these open roles
+    title: Convinced? check out these open rolessss
     items:
       - type: FeaturedItem
         title: Product
