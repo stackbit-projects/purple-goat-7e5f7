@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-f
     title: We’re growing fastssssss
-    subtitle: You should join us
+    subtitle: You should join ussss
     media:
       type: ImageBlock
       url: /images/hero-4.jpg
