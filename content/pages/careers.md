@@ -36,6 +36,8 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    text: |
+      This is some text
   - elementId: ''
     colors: colors-a
     quote: >-
