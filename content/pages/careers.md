@@ -228,6 +228,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeaturedItemsSection
+    subtitle: this is a subtitle
   - elementId: contact-form
     colors: colors-f
     title: Not seeing the right role? Contact us
