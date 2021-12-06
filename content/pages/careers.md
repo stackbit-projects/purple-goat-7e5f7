@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-f
-    title: We’re growing fasts
+    title: We’re growing fastssssss
     subtitle: You should join us.
     media:
       type: ImageBlock
